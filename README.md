@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anonymous-beta/Boogie/main/WA_1780575454914.jpeg" alt="BOOGIE Logo" width="300"/>
+</p>
+
 # 🔥 BOOGIE – Mobile Penetration Testing Framework
 
 **BOOGIE** is an all‑in‑one mobile pentesting toolkit designed for **Termux** (Android) and other Linux environments. It combines reconnaissance, web attacks, payload generation, listeners, phishing, exploitation, and network utilities into a single, easy‑to‑use Python script.
@@ -97,7 +101,3 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 anonymous-beta – GitHub
 
 Built with passion for security education and authorized testing.
-
-```
-
----
