@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anonymous-beta/Boogie/main/WA_1780575454914.jpeg" alt="BOOGIE Logo" width="300"/>
+  <img src="Boogie.svg" alt="BOOGIE Logo" width="300"/>
 </p>
 
 # 🔥 BOOGIE – Mobile Penetration Testing Framework
